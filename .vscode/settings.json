@@ -1,0 +1,11 @@
+{
+    "standard.enable": true,
+    "standard.options": {
+        "parser": "babel-eslint"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 160,
+    "prettier.useTabs": false
+}
